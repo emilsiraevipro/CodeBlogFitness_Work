@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodeBlogFitness.BL.Controller.Tests/CodeBlogFitness.BL.Controller.Tests.csproj" Id="bfec9c8b-1e11-41cb-9496-ed257bf7a55f" />
+  <Project Path="CodeBlogFitness.BL/CodeBlogFitness.BL.csproj" Id="a85f2917-263a-4f1e-a65e-eed3c1bc3bae" />
+  <Project Path="CodeBlogFitness.CMD/CodeBlogFitness.CMD.csproj" Id="80e13b3a-5961-439e-adac-9d8c55a07bc5" />
+</Solution>

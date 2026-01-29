@@ -1,0 +1,10 @@
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.exe.config
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.exe
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.pdb
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.BL.dll
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.BL.pdb
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.AssemblyReference.cache
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlog.8C56EA16.Up2Date
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.exe
+C:\Users\siraev\source\repos\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.pdb
