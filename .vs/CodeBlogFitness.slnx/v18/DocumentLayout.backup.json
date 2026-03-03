@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\model\\eating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\model\\eating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\controller\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\controller\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEC9C8B-1E11-41CB-9496-ED257BF7A55F}|CodeBlogFitness.BL.Controller.Tests\\CodeBlogFitness.BL.Controller.Tests.csproj|C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\codeblogfitness.bl.controller.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEC9C8B-1E11-41CB-9496-ED257BF7A55F}|CodeBlogFitness.BL.Controller.Tests\\CodeBlogFitness.BL.Controller.Tests.csproj|solutionrelative:codeblogfitness.bl.controller.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\controller\\eatingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\controller\\eatingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\codeblogfitness.bl\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFEC9C8B-1E11-41CB-9496-ED257BF7A55F}|CodeBlogFitness.BL.Controller.Tests\\CodeBlogFitness.BL.Controller.Tests.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl.controller.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFEC9C8B-1E11-41CB-9496-ED257BF7A55F}|CodeBlogFitness.BL.Controller.Tests\\CodeBlogFitness.BL.Controller.Tests.csproj|solutionrelative:codeblogfitness.bl.controller.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|c:\\users\\siraev\\source\\repos\\codeblogfitness\\codeblogfitness.bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F2917-263A-4F1E-A65E-EED3C1BC3BAE}|CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj|solutionrelative:codeblogfitness.bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80E13B3A-5961-439E-ADAC-9D8C55A07BC5}|CodeBlogFitness.CMD\\CodeBlogFitness.CMD.csproj|C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\codeblogfitness.cmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\UserController.cs",
               "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Controller\\UserController.cs",
               "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\UserController.cs",
               "RelativeToolTip": "CodeBlogFitness.BL\\Controller\\UserController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAcwFoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:41:26.182Z",
               "IsPinned": true,
@@ -48,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\User.cs",
               "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Model\\User.cs",
               "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\User.cs",
               "RelativeToolTip": "CodeBlogFitness.BL\\Model\\User.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA0wDkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:51:52.293Z",
               "IsPinned": true,
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\Gender.cs",
               "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Model\\Gender.cs",
@@ -71,12 +87,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:53:39.918Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.CMD\\Program.cs",
               "RelativeDocumentMoniker": "CodeBlogFitness.CMD\\Program.cs",
@@ -85,21 +100,73 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:44:59.83Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
+              "RelativeToolTip": "CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:26:10.958Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eating.cs",
+              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\Eating.cs",
+              "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Model\\Eating.cs",
+              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\Eating.cs",
+              "RelativeToolTip": "CodeBlogFitness.BL\\Model\\Eating.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:09:20.419Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
-              "RelativeDocumentMoniker": "CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
-              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
-              "RelativeToolTip": "CodeBlogFitness.BL.Controller.Tests\\UserControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Title": "ControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\ControllerBase.cs",
+              "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Controller\\ControllerBase.cs",
+              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\ControllerBase.cs",
+              "RelativeToolTip": "CodeBlogFitness.BL\\Controller\\ControllerBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:26:10.958Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-01-29T14:44:40.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EatingController.cs",
+              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\EatingController.cs",
+              "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Controller\\EatingController.cs",
+              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Controller\\EatingController.cs",
+              "RelativeToolTip": "CodeBlogFitness.BL\\Controller\\EatingController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:02:19.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\Food.cs",
+              "RelativeDocumentMoniker": "CodeBlogFitness.BL\\Model\\Food.cs",
+              "ToolTip": "C:\\Users\\siraev\\source\\repos\\CodeBlogFitness\\CodeBlogFitness.BL\\Model\\Food.cs",
+              "RelativeToolTip": "CodeBlogFitness.BL\\Model\\Food.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:01:03.188Z",
               "EditorCaption": ""
             }
           ]
